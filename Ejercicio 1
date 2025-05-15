@@ -1,4 +1,7 @@
-Dado una lista con cinco enteros, imprimir la lista.
+//Abraham Zuñiga
+// ejercicio1
+//Dado una lista con cinco enteros, imprimir la lista.
+
 #include <stdio.h>
 void main ()
 {
