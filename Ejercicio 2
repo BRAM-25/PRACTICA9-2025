@@ -1,4 +1,7 @@
-Utilizando una lista capturar las cinco calificaciones de un alumno e imprimir promedio.
+//Abraham Zuñiga
+// ejercicio2
+//Utilizando una lista capturar las cinco calificaciones de un alumno e imprimir promedio.
+
 #include <stdio.h>
 void main ()
 {
